@@ -1,0 +1,338 @@
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/appsettings.Development.json
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/appsettings.json
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/PersionalExpenses
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/PersionalExpenses.deps.json
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/PersionalExpenses.runtimeconfig.json
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/PersionalExpenses.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/PersionalExpenses.pdb
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Google.Protobuf.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/K4os.Compression.LZ4.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/K4os.Compression.LZ4.Streams.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/K4os.Hash.xxHash.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/MySql.Data.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/MySqlConnector.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/System.IO.Pipelines.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/System.Security.Permissions.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/System.Text.Json.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/System.Windows.Extensions.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/ZstdSharp.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/runtimes/win-x64/native/comerr64.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/runtimes/win-x64/native/gssapi64.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/runtimes/win-x64/native/k5sprt64.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/runtimes/win-x64/native/krb5_64.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/runtimes/win-x64/native/krbcc64.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Windows.Extensions.dll
+/var/www/html/Felance/PersionalExpenses/obj/Debug/net8.0/PersionalExpenses.csproj.AssemblyReference.cache
+/var/www/html/Felance/PersionalExpenses/obj/Debug/net8.0/PersionalExpenses.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/html/Felance/PersionalExpenses/obj/Debug/net8.0/PersionalExpenses.AssemblyInfoInputs.cache
+/var/www/html/Felance/PersionalExpenses/obj/Debug/net8.0/PersionalExpenses.AssemblyInfo.cs
+/var/www/html/Felance/PersionalExpenses/obj/Debug/net8.0/PersionalExpenses.csproj.CoreCompileInputs.cache
+/var/www/html/Felance/PersionalExpenses/obj/Debug/net8.0/PersionalExpenses.MvcApplicationPartsAssemblyInfo.cs
+/var/www/html/Felance/PersionalExpenses/obj/Debug/net8.0/PersionalExpenses.MvcApplicationPartsAssemblyInfo.cache
+/var/www/html/Felance/PersionalExpenses/obj/Debug/net8.0/staticwebassets.build.json
+/var/www/html/Felance/PersionalExpenses/obj/Debug/net8.0/staticwebassets.development.json
+/var/www/html/Felance/PersionalExpenses/obj/Debug/net8.0/staticwebassets/msbuild.PersionalExpenses.Microsoft.AspNetCore.StaticWebAssets.props
+/var/www/html/Felance/PersionalExpenses/obj/Debug/net8.0/staticwebassets/msbuild.build.PersionalExpenses.props
+/var/www/html/Felance/PersionalExpenses/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.PersionalExpenses.props
+/var/www/html/Felance/PersionalExpenses/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.PersionalExpenses.props
+/var/www/html/Felance/PersionalExpenses/obj/Debug/net8.0/staticwebassets.pack.json
+/var/www/html/Felance/PersionalExpenses/obj/Debug/net8.0/scopedcss/bundle/PersionalExpenses.styles.css
+/var/www/html/Felance/PersionalExpenses/obj/Debug/net8.0/PersionalExpenses.csproj.CopyComplete
+/var/www/html/Felance/PersionalExpenses/obj/Debug/net8.0/PersionalExpenses.dll
+/var/www/html/Felance/PersionalExpenses/obj/Debug/net8.0/refint/PersionalExpenses.dll
+/var/www/html/Felance/PersionalExpenses/obj/Debug/net8.0/PersionalExpenses.pdb
+/var/www/html/Felance/PersionalExpenses/obj/Debug/net8.0/PersionalExpenses.genruntimeconfig.cache
+/var/www/html/Felance/PersionalExpenses/obj/Debug/net8.0/ref/PersionalExpenses.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Humanizer.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Mono.TextTemplating.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/System.CodeDom.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/System.Composition.Convention.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/System.Composition.Hosting.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/System.Composition.Runtime.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.Extensions.Configuration.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Json.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Physical.dll
+/var/www/html/Felance/PersionalExpenses/bin/Debug/net8.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/var/www/html/Felance/PersionalExpenses/obj/Debug/net8.0/PersionalExpenses.sourcelink.json
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\appsettings.Development.json
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\appsettings.json
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\PersionalExpenses.staticwebassets.endpoints.json
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\PersionalExpenses.exe
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\PersionalExpenses.deps.json
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\PersionalExpenses.runtimeconfig.json
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\PersionalExpenses.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\PersionalExpenses.pdb
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Google.Protobuf.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Humanizer.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\MySql.Data.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\MySqlConnector.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\System.CodeDom.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\System.Text.Json.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\ZstdSharp.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\obj\Debug\net8.0\PersionalExpenses.csproj.AssemblyReference.cache
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\obj\Debug\net8.0\PersionalExpenses.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\obj\Debug\net8.0\PersionalExpenses.AssemblyInfoInputs.cache
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\obj\Debug\net8.0\PersionalExpenses.AssemblyInfo.cs
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\obj\Debug\net8.0\PersionalExpenses.csproj.CoreCompileInputs.cache
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\obj\Debug\net8.0\PersionalExpenses.MvcApplicationPartsAssemblyInfo.cs
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\obj\Debug\net8.0\PersionalExpenses.MvcApplicationPartsAssemblyInfo.cache
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\obj\Debug\net8.0\PersionalExpenses.sourcelink.json
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\obj\Debug\net8.0\scopedcss\bundle\PersionalExpenses.styles.css
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\obj\Debug\net8.0\staticwebassets.build.json
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\obj\Debug\net8.0\staticwebassets.development.json
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\obj\Debug\net8.0\Persiona.074B2904.Up2Date
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\obj\Debug\net8.0\PersionalExpenses.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\obj\Debug\net8.0\refint\PersionalExpenses.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\obj\Debug\net8.0\PersionalExpenses.pdb
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\obj\Debug\net8.0\PersionalExpenses.genruntimeconfig.cache
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\obj\Debug\net8.0\ref\PersionalExpenses.dll
+E:\Dự án cá nhân\project-with-trung-nam\PersionalProject\PersionalExpenses\bin\Debug\net8.0\PersionalExpenses.staticwebassets.runtime.json

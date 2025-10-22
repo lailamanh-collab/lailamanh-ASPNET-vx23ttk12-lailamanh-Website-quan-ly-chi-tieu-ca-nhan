@@ -1,0 +1,16 @@
+wwwroot\icons\banknote.svg
+wwwroot\icons\book-open.svg
+wwwroot\icons\brush.svg
+wwwroot\icons\car.svg
+wwwroot\icons\coins.svg
+wwwroot\icons\first-aid-kit.svg
+wwwroot\icons\hand-coins.svg
+wwwroot\icons\home.svg
+wwwroot\icons\phone.svg
+wwwroot\icons\shirt.svg
+wwwroot\icons\trending-up.svg
+wwwroot\icons\trophy.svg
+wwwroot\icons\users.svg
+wwwroot\icons\utensils.svg
+wwwroot\icons\wallet.svg
+wwwroot\icons\zap.svg
